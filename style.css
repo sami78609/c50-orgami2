@@ -1,0 +1,34 @@
+*{
+    background-color: #fff000;
+}
+h1{
+    color:red;
+}
+
+.header{
+    border:solid;
+    background-color: cyan;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:stretch;
+}
+
+.item img{
+    border:solid;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display: flex;
+    justify-content:center;
+}
+
+p{
+    text-align: start;
+}
+
